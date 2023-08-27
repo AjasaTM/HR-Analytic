@@ -1,0 +1,282 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 810.29548123535221,
+            "y": 287.31712771147153
+          },
+          "nodeIndex": "BusinessTravel",
+          "nodeLineageTag": "86b762f5-0f52-4bea-a19a-a701a9e4398a",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 809.66201226568035,
+            "y": 853.12827654350281
+          },
+          "nodeIndex": "Department",
+          "nodeLineageTag": "4ad80071-28f4-465e-b19f-21668a911be4",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 811.27491415327358,
+            "y": 992.22995919042444
+          },
+          "nodeIndex": "Education",
+          "nodeLineageTag": "240acc84-4433-4459-aa45-291faee40ab3",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 450.65454652654842,
+            "y": 0
+          },
+          "nodeIndex": "Employees",
+          "nodeLineageTag": "9c917112-2740-474d-9c71-b70edbaf221f",
+          "size": {
+            "height": 1000,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 418.19051862385436
+          },
+          "nodeIndex": "EmploymentType",
+          "nodeLineageTag": "28594cbe-3f99-4ebc-b9a9-487ebe443e56",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 139.77776143986418
+          },
+          "nodeIndex": "EnvironmentSatisfaction",
+          "nodeLineageTag": "532fa796-2fca-416b-9d14-f8a56e84fd10",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 811.2568825662886,
+            "y": 0
+          },
+          "nodeIndex": "Gender",
+          "nodeLineageTag": "6ebbe558-d81d-4c9f-818a-cbd6ac54db08",
+          "size": {
+            "height": 138.18878112233622,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "HireType",
+          "nodeLineageTag": "0e85615b-a59a-44e6-8881-ef2bc198d683",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 810.45272259600767,
+            "y": 148.00467302369566
+          },
+          "nodeIndex": "JobInvolvement",
+          "nodeLineageTag": "d33ae870-be35-49bb-b0da-41a03951450b",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 969.53188822855168
+          },
+          "nodeIndex": "JobRole",
+          "nodeLineageTag": "9f4d96a9-b24d-495b-a15e-d9fe283e7040",
+          "size": {
+            "height": 142.59161704691815,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 279.11105316630977
+          },
+          "nodeIndex": "JobSatisfaction",
+          "nodeLineageTag": "aecaf898-ef4f-47c5-9531-1ca9b245b264",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 831.82965333869868
+          },
+          "nodeIndex": "Performance",
+          "nodeLineageTag": "9a958e7f-1df4-4df1-9f74-3dcd5b90b956",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 558.34540362950474
+          },
+          "nodeIndex": "RelationshipSatisfaction",
+          "nodeLineageTag": "b732ce0d-9e24-41a5-bfa0-8daf36abae46",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 810.58357748074059,
+            "y": 716.71523405404332
+          },
+          "nodeIndex": "TerminationType",
+          "nodeLineageTag": "ad044d11-d338-4120-b7c9-f9eea873cd5c",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 811.14206782008148,
+            "y": 427.89815394762996
+          },
+          "nodeIndex": "Calendar",
+          "nodeLineageTag": "ce5756f2-ea49-4562-bbd7-67e212baca39",
+          "size": {
+            "height": 279.44324836655358,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 694.00503397508578
+          },
+          "nodeIndex": "WorkLifeBalance",
+          "nodeLineageTag": "2fc3b56d-05c5-4419-9654-9bd3a0d91882",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 1113.5986374723625,
+            "y": 0
+          },
+          "nodeIndex": "KeyMeasures",
+          "nodeLineageTag": "5651103a-a60d-43b7-94d7-e74854bc8966",
+          "size": {
+            "height": 683.07086614173227,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {},
+          "nodeIndex": "Custom slicer HR",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "Custom slicer",
+          "nodeLineageTag": "b1ca4e18-f895-4989-9dd7-fb42fd1a52ea",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "Demographic slicer",
+          "nodeLineageTag": "92da6738-517d-485d-a47c-6fb7d96caa40",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "Demographic slicer 2",
+          "nodeLineageTag": "d02da3c1-6fbc-4924-b3fa-3c0ef7ed7795",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 57.999999999999993,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
